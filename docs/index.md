@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Sanatan Dharma College Hoshiarpur
+## Career Counselling Cell
+### Notice Board
 
-You can use the [editor on GitHub](https://github.com/SDCareerCounsellingCell/SDcollegeHsp.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+**Attention Students**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Government of Punjab has launched Ghar Ghar Rozgar Mission for the youth of Punjab State.Punjab State Government along with Eduzphere has taken initiative to provide good quality coaching to all students in their own districts of punjab free of cost.The main purpose of this scheme is to fulfill the coaching needs of candidates who wants to secure their job in government departments.Under this scheme ,Eduzphere will provide free coaching for all government exams to all the candidates in different districts of Punjab State in order to enable the candidates to appear for Competitive exams and make their career in government sectors.All those students who are preparing for govt competitive exam are eligible to enjoy the benefits of this scheme.
+Under this scheme all interested candidates from all educational streams can take advantage of this.The main idea behind this is to create awareness among the youth of punjab state about opportunities available in government departments.Eduzphere will provide best result oriented coaching to the youth of punjab in their own district free of cost which will help them in cracking a government exam as well as improve the confidence and knowledge of the candidate.There are a number of technical & non technical government jobs for which a candidate can appear for.Under this scheme, Eduzphere will provide coaching to all students whether Post graduate/graduate/Matric10th /12th/ITI...
 
-### Markdown
+1. Bank clerk/PO : Banking sector offers great career opportunities for freshers as well as experienced candidates.Candidates get opportunities for high pay scale, growth,etc.in this profile.IBPS,SBI,NABARD,RBI etc are the banks which release their job notification and conduct exam every year to fill their vacant positions.Every year recruitment notification for the post of Clerk,Specialist Officer (SO) & Prabationary Officer commonly known as PO is released.Banking sector is one of the fastest groeing sectors.Nowadays, many banks in India are in expansion mode so there will be more & more banking job opportunities in upcoming years.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2. SSC CHSL : Staff Selection Commission(SSC) is a government organisation which offers job opportunities to a number of candidates every year.The staff selection commission carries out Combined Higher Secondary Level Exam(CHSL) to recruit persons for various job posts like Lower division clerk,Data entry operater,Postal assistants etc.Students who wants to start their career in govenment organisation immediately after completing 12th can appear for SSC CHSL Exam.
 
-```markdown
-Syntax highlighted code block
+3. SSC CGL: SSC is one of the most desirable government organistion in India.Every year SSC conduct Combined Graduate Level(CGL) Exam to recruit candidates for non-technical Grade B & C posts in various departments/Ministeries/organisations of government of India.candidates have to clear different tier to secure their seat in govt. Departments.All the candidates who have graduated from a recognised university can apply for this exam.
 
-# Header 1
-## Header 2
-### Header 3
+4. SSC JE : Staff selection commission Conduct SSC JE Exam every year to fill technical posts.Applications are invited from graduated engineers who have done degree or diploma from recognised institute in civil, mechanical, electrical for the post of junior engineer.Candidates are selected to be posted either in state or centre government offices like CPWD,MES, water commissions etc.
 
-- Bulleted
-- List
+5. State AE/JE : Apart from Center government departments which offer government job opportunities there are a number of government departements in states also, in which candidates can start their career.Students can grab their government job in their own state of punjab.There are so many departments in Punajb like PUDA,Water Supply & Snitation, Punjab Mandi Board, Irrigation..etc where recruitment of candidates is done for the posts of junior engineer,assistant engineer ,sub division officer etc.
 
-1. Numbered
-2. List
+6. RRB : Railway Recruitment Board commonly known as RRB offers various technical and Non technical jobs to the aspirants.Government jobs in railways have always been in demand due to high quality job profile,comfortable timings, high salary ,perks etc.Jobs in Indian Railways are divided in four categories Group A,B, C, D according to level of posts & qualification of candidates.Popular non technical posts like clerk, accountant, stationmasters etc & technical posts for civil,electrical,mechanical,electronics engineers are filled by various Railway Recruitment Boards(RRB).Students can make carrer in Indian railways immediately after 10th.
 
-**Bold** and _Italic_ and `Code` text
+7. Other Govt Exams Coming in Punjab 
 
-[Link](url) and ![Image](src)
-```
+                  Eduzphere has joined hands with Government of punjab in the mission of providing government jobs to the youth of Punjab. Under this mission eduzphere will provide guidance to all those candidates who were not able to join us due to financial or any other reasons.The main idea is to create awareness amongst the punjab youth so that they can also make their career in government departements.Those who are already preparing for government jobs can also join to give their preparation a right track in order to achieve their goal. Eduzphere being a best government coaching institute give their emphasis on helping the students in achieving their goals and guiding students which will definately increase their confidence and help them to achieve success in life.
+                  
+                  [to Register Click Here](https://www.eduzphere.com/form/freegovtexamcoaching-9?fbclid=IwAR1IRFm8ZZ4o8f1aNoi1KcokU9FsAIqBLpSHg7TQT8nW0k-BLb3ovbrYLvY)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SDCareerCounsellingCell/SDcollegeHsp.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
